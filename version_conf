@@ -1,1 +1,31 @@
-{"version": "0.0.56", "name": "conf"}
+{
+	"name": "conf",
+	"homepage": "https://github.com/kevin50406418/conf",
+	"version": "0.0.56",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/kevin50406418/conf.git"
+	},
+	"authors": [
+		"Jingxun Lai <kevin50406418@gmail.com>"
+	],
+	"description": "研討會系統",
+	"keywords": [
+		"conf",
+		"journal",
+		"system",
+		"paper"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"demo",
+		"lib"
+	],
+	"dependencies": {
+		"php": ">= 5.5"
+	}
+}
