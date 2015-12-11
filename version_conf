@@ -1,7 +1,7 @@
 {
 	"name": "conf",
 	"homepage": "https://github.com/kevin50406418/conf",
-	"version": "0.0.54",
+	"version": "0.0.56",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/kevin50406418/conf.git"
